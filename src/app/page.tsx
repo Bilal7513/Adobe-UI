@@ -56,7 +56,7 @@ export default function Home() {
       </div>
       <button className="fixed bottom-[60px] right-[22px] bg-white bg-[url('/jarvis_bubble_chat.svg')] bg-no-repeat bg-[length:24px] bg-center border-2 border-[#505050] rounded-full shadow-[0_2px_4px_rgba(0,0,0,0.15)] text-[#34495e] text-[20px] w-[60px] h-[60px] cursor-pointer outline-none z-[99999]"/>
       <Link href="#" className="absolute flex bottom-[-83px] tracking-tight text-[12px] hover:underline font-bold leading-[1.33] pb-[12px] pl-[16px]">
-        <img src="/stock.svg" alt="Icon image" className="w-[18px] h-[18px] mr-[6px]"/>
+        <img src="/Stock.svg" alt="Icon image" className="w-[18px] h-[18px] mr-[6px]"/>
         <p className="mt-[1px]">Lincoln Barbour</p>
       </Link>
       <footer className="bg-white relative w-full border-t border-[#d3d3d3] py-[10px] px-[16px] flex flex-wrap justify-end
